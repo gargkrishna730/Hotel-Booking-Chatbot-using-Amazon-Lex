@@ -6,7 +6,7 @@ This repository contains the code for a hotel booking chatbot using Amazon Lex. 
 
 ## Files
 
-- [Intents and Slots Zip File](HotelBooking-DRAFT-DRPIFKVKRJ-LexJson.zip): Contains all the intents and slots required for the chatbot.
+[Intents and Slots Zip File](HotelBooking-DRAFT-DRPIFKVKRJ-LexJson.zip): Contains all the intents and slots required for the chatbot.
 
 ## Getting Started
 
